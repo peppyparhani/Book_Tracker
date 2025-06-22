@@ -18,22 +18,11 @@ Jika menggunakan Git :
 git clone https://github.com/username/BookTracker.git
 cd BookTracker
 
-atau bisa download zip, kemudian ekstrak di folder lokal.
+atau bisa download zip, kemudian ekstrak di folder lokal. 
 
-b.**Struktur Folder**
-
-BookTracker/
-├── main.py              
-├── book.py              
-├── book_manager.py      
-├── data/                
-│   └── books.json        
-├── README.md           
-└── demo.mp4       
-
-c.**Jalankan aplikasi**
-1. Buka terminal di folder proyek.
-2. Jalankan perintah : python main.py
+b.**Jalankan aplikasi**
+- Buka terminal di folder proyek.
+- Jalankan perintah : python main.py
 Jika menggunakan VScode, cukup buka file main.py dan klik run.
 
 3. **Fungsi Aplikasi**
