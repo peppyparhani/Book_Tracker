@@ -1,4 +1,4 @@
-# 📚 BookTracker
+# BookTracker
 
 ## Deskripsi
 Aplikasi ini terinspirasi dari hobi saya yang suka membaca novel. Saya sering lupa judul buku yang pernah saya baca, kapan saya menyelesaikannya, dan seberapa saya menyukainya. Oleh karena itu, BookTracker hadir untuk membantu mencatat, menyimpan, dan mengelola daftar bacaan saya, baik fiksi maupun non-fiksi.
@@ -6,7 +6,7 @@ Aplikasi ini dibangun menggunakan bahasa Python dengan pendekatan OOP (Object-Or
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Cara Menjalankan
+## Cara Menjalankan
 
 1. **Persyaratan Sistem**
 - Python 3.6 atau lebih baru.
@@ -21,6 +21,7 @@ cd BookTracker
 atau bisa download zip, kemudian ekstrak di folder lokal.
 
 b.**Struktur Folder**
+
 BookTracker/
 ├── main.py              
 ├── book.py              
