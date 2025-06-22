@@ -13,11 +13,11 @@ Aplikasi ini dibangun menggunakan bahasa Python dengan pendekatan OOP (Object-Or
 - Tidak membutuhkan library tambahan karena hanya menggunakan tkinker dan json (sudah termasuk di Python).
 
 2. **Langkah-langkah Menjalankan**
+   
 a. **clone atau Download Proyek**
 Jika menggunakan Git :
 git clone https://github.com/username/BookTracker.git
 cd BookTracker
-
 atau bisa download zip, kemudian ekstrak di folder lokal. 
 
 b.**Jalankan aplikasi**
