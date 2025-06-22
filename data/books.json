@@ -1,0 +1,58 @@
+[
+    {
+        "type": "📘 Novel",
+        "title": "senja bersama rosie",
+        "author": "tere liye",
+        "genre": "romance",
+        "date_finished": "2024-06-12",
+        "rating": 5.0
+    },
+    {
+        "type": "📘 Novel",
+        "title": "bumi",
+        "author": "tere liye",
+        "genre": "fantasi",
+        "date_finished": "2023-09-10",
+        "rating": 5.0
+    },
+    {
+        "type": "📗 Non-Fiksi",
+        "title": "psychology of money",
+        "author": "morgan housel",
+        "genre": "self improvement",
+        "date_finished": "2023-12-01",
+        "rating": 5.0
+    },
+    {
+        "type": "📗 Non-Fiksi",
+        "title": "atomic habits",
+        "author": "james clear",
+        "genre": "self improvement",
+        "date_finished": "2023-01-19",
+        "rating": 5.0
+    },
+    {
+        "type": "📘 Novel",
+        "title": "laut bercerita",
+        "author": "Leila S. Chudori",
+        "genre": "fiksi sejarah",
+        "date_finished": "2022-10-15",
+        "rating": 5.0
+    },
+    {
+        "type": "📗 Non-Fiksi",
+        "title": "filosofi teras",
+        "author": "henry manampiring",
+        "genre": "self improvement",
+        "date_finished": "2024-06-10",
+        "rating": 5.0
+    },
+    {
+        "type": "📘 Novel",
+        "title": "bulan",
+        "author": "tere liye",
+        "genre": "fantasi",
+        "date_finished": "2021-10-22",
+        "rating": 5.0
+    }
+]
