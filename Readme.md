@@ -16,7 +16,7 @@ Aplikasi ini dibangun menggunakan bahasa Python dengan pendekatan OOP (Object-Or
    
 a. **clone atau Download Proyek**
 Jika menggunakan Git :
-git clone https://github.com/username/BookTracker.git
+git clone https://github.com/peppyparhani/Book_Tracker.git
 cd BookTracker
 atau bisa download zip, kemudian ekstrak di folder lokal. 
 
