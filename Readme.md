@@ -3,7 +3,8 @@
 ## Deskripsi
 Aplikasi ini terinspirasi dari hobi saya yang suka membaca novel. Saya sering lupa judul buku yang pernah saya baca, kapan saya menyelesaikannya, dan seberapa saya menyukainya. Oleh karena itu, BookTracker hadir untuk membantu mencatat, menyimpan, dan mengelola daftar bacaan saya, baik fiksi maupun non-fiksi.
 Aplikasi ini dibangun menggunakan bahasa Python dengan pendekatan OOP (Object-Oriented Programming) dan dilengkapi antarmuka GUI berbasis `tkinter`. Data buku disimpan dalam format JSON sehingga mudah dipindahkan atau dibagikan.
-**LINK VIDEO DEMO**
+
+##**LINK VIDEO DEMO**
 https://youtu.be/Arf9VtfpPT8 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
